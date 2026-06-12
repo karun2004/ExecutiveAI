@@ -1,0 +1,12 @@
+# MACH-1
+.env
+venv/
+__pycache__/
+*.pyc
+data/mach1.db
+data/projects/
+logs/
+backups/
+*.db-journal
+*.db-wal
+.DS_Store
